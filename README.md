@@ -90,8 +90,9 @@ Some Features are:
 
 <br>
 
-### The Service is currently working succesfully on localhost PORT: 3000 by default. It can be change by assinging environment variable.
-<li> 
+ The Service is currently working succesfully on localhost PORT: 3000 by default. It can be change by assigning environment variable.
+
+
 
 
       
