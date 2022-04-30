@@ -11,6 +11,17 @@ Some Features are:
 <li>  Applying Numerical Filters 
     <li>
 
-    Sorting Poducts in according to their
+    Sorting Poducts in according to their choice.
+    For Example -
+
+    API
+    http://localhost:3000/api/v1/products?sort=-price&company=ikea&numericFilters=price%3C30
+
+    RESPONSE
+
+    /IMAGE
+
+    
+
 
      
